@@ -1,0 +1,30 @@
+.bi-facebook {
+    transition:0.3s;
+    cursor:pointer;
+}
+
+.bi-facebook:hover {
+    color:blue;
+}
+
+#name , #technologies , #localisation{
+    font-weight:700
+}
+
+#localisation a{
+    text-decoration: none;
+    color:black;
+}
+
+#localisation i{
+    color:black;
+}
+
+#kontakt i  {
+    margin-right:5px;
+    transition:.3s;
+}
+
+#kontakt i:hover  {
+    color:blue;
+}
